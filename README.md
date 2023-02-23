@@ -1,2 +1,2 @@
 # crwn-clothing
-A clothing store where users can purchase items.
+An E-commerce clothing store built using React / Redux where users can purchase items.
